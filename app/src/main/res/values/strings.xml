@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModelExample</string>
+    <string name="count_down">Count Down Minus</string>
+    <string name="count_down_plus">Count Down Plus</string>
+</resources>
